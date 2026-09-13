@@ -11,3 +11,7 @@
 - Noms chiffrés 
 - Padding
 - Journaling chiffrés
+
+
+chiffrement : ChaCha20-Poly1305
+
